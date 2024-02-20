@@ -1,0 +1,47 @@
+body{
+    background-image: url(/img/background.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    background-color: rgba(0, 0, 0,50%);
+    border-radius:  25px;
+    padding: 80px ; margin: 30px auto;
+    width: 750px; height: 490px;
+}
+header{
+    text-align: center;
+}
+.lim{
+    width: 200px; ;
+}
+.Booleaners{
+    color: rgb(34, 247, 34);
+    margin: 0%;
+}
+.prenota{
+    background-color: rgb(34, 247, 34);
+    padding: 10px;
+}
+b{
+    font-size: 25px;
+}
+nav{
+    color: white;
+}
+.rettangolo1{
+    color: #ff7746;
+    background-color: #ff7746;
+    border-radius: 5px; width: 40%;
+}
+.rettangolo2{
+    color: #22f722;
+    background-color: #22f722;
+    border-radius: 5px; width: 55%;
+}
+.rettangolo3{
+    color: #c00404;
+    background-color: #c00404;
+    border-radius: 5px; width: 18%;
+}
